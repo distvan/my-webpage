@@ -1,1 +1,1 @@
-Sitemap: https://blackcurrant.jekyll-themes.com/sitemap.xml
+Sitemap: https://www.dobrenteiistvan.hu/sitemap.xml
